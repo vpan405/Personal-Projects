@@ -1,4 +1,4 @@
-GOAL: To use various machine learning models to identify where where SARS-CoV-2 mutations/variants originated from. 
+GOAL: To use various machine learning models to identify where SARS-CoV-2 mutations/variants originated from. 
 Accomplished Objectives:
 - Learn how to clean up and preprocess genome data
 - Convert genomic data into a feature matrix
