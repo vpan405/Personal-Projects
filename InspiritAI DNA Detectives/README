@@ -1,0 +1,10 @@
+GOAL: To use various machine learning models to identify where where SARS-CoV-2 mutations/variants originated from. 
+Accomplished Objectives:
+- Learn how to clean up and preprocess genome data
+- Convert genomic data into a feature matrix
+- Build a logistic regression model predicting the country a SARS-CoV-2 lineage came from based on its genome
+- Learn what feature reduction is and why it is important.
+- Learn about Lasso (L1) normalization, one of the most common methods of feature reduction.- 
+- Implement Lasso feature reduction into your own model and evaluate it.
+- Identify important mutations that can be used as biomarkers in determining where SARS-CoV-2 samples came from.
+- Learn the basics of Principal Components Analysis, a form of unsupervised learning, and apply it to your dataset.
