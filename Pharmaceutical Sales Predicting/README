@@ -1,3 +1,11 @@
 GOAL: Build a machine learning model to forecast pharmaceutical sales based on features such as Product Class, Channel, 
       Distributor, Quantity, etc.
-
+Accomplished Objectives:
+- Data loading and preprocessing 
+- Exploratory visualizations (heatmaps, boxplots) 
+- Machine learning model (Random Forest) 
+- Forecasting for new input 
+- Visuals for presentations like: Correlation heatmap 
+      - Sales by drug type 
+      - Feature importance 
+      - Actual vs Predicted Sales scatter plot
